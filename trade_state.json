@@ -1,4 +1,12 @@
 {
-    "active_trade": null,
+    "active_trade": {
+        "direction": "SELL",
+        "entry_price": 4035.70347,
+        "tp1": 4022.44637,
+        "tp2": 4010.8464075,
+        "sl": 4047.3034325,
+        "time": "2026-11-12 00:35:00",
+        "tp1_hit": false
+    },
     "history": []
 }
