@@ -1,13 +1,5 @@
 {
-    "active_trade": {
-        "direction": "SELL",
-        "entry_price": 3728.93205,
-        "tp1": 3707.6332185714286,
-        "tp2": 3688.996741071429,
-        "sl": 3747.5685274999996,
-        "time": "2026-11-19 13:45:00",
-        "tp1_hit": true
-    },
+    "active_trade": null,
     "history": [
         {
             "direction": "SELL",
@@ -41,6 +33,17 @@
             "tp1_hit": true,
             "result": "TP2 HIT \ud83c\udfaf\ud83c\udfaf (Full Win)",
             "exit_time": "2026-11-16 06:10:00"
+        },
+        {
+            "direction": "SELL",
+            "entry_price": 3728.93205,
+            "tp1": 3707.6332185714286,
+            "tp2": 3688.996741071429,
+            "sl": 3747.5685274999996,
+            "time": "2026-11-19 13:45:00",
+            "tp1_hit": true,
+            "result": "TP2 HIT \ud83c\udfaf\ud83c\udfaf (Full Win)",
+            "exit_time": "2026-11-20 03:25:00"
         }
     ]
 }
