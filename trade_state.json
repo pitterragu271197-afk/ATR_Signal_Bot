@@ -1,5 +1,13 @@
 {
-    "active_trade": null,
+    "active_trade": {
+        "direction": "BUY",
+        "entry_price": 3564.80955,
+        "tp1": 3593.3003757142856,
+        "tp2": 3618.229848214285,
+        "sl": 3539.8800775,
+        "time": "2026-11-20 18:45:00",
+        "tp1_hit": false
+    },
     "history": [
         {
             "direction": "SELL",
